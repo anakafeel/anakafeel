@@ -21,3 +21,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anakafeel&show_icons=true&theme=dracula)
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-anakafeel&theme=dark&background=000000)](https://git.io/streak-stats)
