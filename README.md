@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saim Hashmi</h1>
-<h3 align="center">A passionate developer from India currently pursuing my Computer Systems Engineering degree at Carleton University (Ottawa , Canada)</h3>
+<h3 align="center">A passionate developer currently pursuing my Computer Systems Engineering degree at Carleton University (Ottawa , Canada)</h3>
 
 - 🔭 I’m currently working on **learning different frameworks and libraries trying to enhance my web projects**
 
