@@ -22,5 +22,8 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anakafeel&theme=neon-dark&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
+<div style="display: flex; flex-direction: row; gap: 20px;"> 
+    <img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=anakafeel&theme=neon-dark&short_numbers=true&mode=weekly" />
+    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakafeel&theme=radical&layout=compact" />
+</div>
