@@ -11,7 +11,7 @@
 
 | GitHub Streak | Most Used Languages |
 |:-------------:|:-------------------:|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anakafeel&theme=dracula&mode=weekly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anakafeel&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact) |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=anakafeel&theme=dracula&mode=weekly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anakafeel&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact) |
 
 
 ### ✍️ Random Dev Quote
