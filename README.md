@@ -67,6 +67,8 @@
 | ![anakafeel](https://steam-stat.vercel.app/api?profileName=fannelchina)                          |                 
 | <br>[![Steam](https://img.shields.io/badge/Steam-Follow-000000?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/fannelchina/) | 
 
+### Listen Along
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bvh6w4umhni851sx3r6sy9nf9&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=60058a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
