@@ -13,6 +13,7 @@
 |:-------------:|:-------------------:|
 | ![GitHub Streak](https://streak-stats.demolab.com/?user=anakafeel&theme=dracula&mode=weekly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anakafeel&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact) |
 
+[![Saim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anakafeel&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 🎮 Gaming Stats
 
