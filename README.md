@@ -42,7 +42,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-%2304AD00.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=white)
 
-### 📊 Data Science & ML
+### 🤖 Data Science & ML
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23008ED6.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
