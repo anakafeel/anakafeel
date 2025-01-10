@@ -13,17 +13,18 @@
 |:-------------:|:-------------------:|
 | ![GitHub Streak](https://streak-stats.demolab.com/?user=anakafeel&theme=dracula&mode=weekly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anakafeel&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact) |
 
----
+
 # 🎮 Gaming Stats
-
 ### Favorite Platforms:
-![Steam](https://img.shields.io/badge/Steam-PC_Master_Race-000000?style=for-the-badge&logo=steam)
 
-| Recent Games | 
-|--------------|
-| ![topson](https://steam-stat.vercel.app/api?profileName=fannelchina) |
+| Recent Games                                                                                      | Discord Presence                                                                                   |
+|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| ![anakafeel](https://steam-stat.vercel.app/api?profileName=fannelchina)                           | ![My Discord](https://discord-readme-badge.vercel.app/api?id=587612275460931595)      |                                                                    
+|||
+| [![Steam](https://img.shields.io/badge/Steam-Follow-000000?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/fannelchina/)    | [![Reach out to me on Discord!](https://img.shields.io/badge/Discord-Reach_out_to_me-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/587612275460931595)  |
 
-> [check my profile out on steam](https://steamcommunity.com/id/fannelchina)
+
+
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
