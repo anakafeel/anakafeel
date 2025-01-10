@@ -25,7 +25,7 @@
 
 
 
-Discord Presence:
+Discord:
 <br>
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=587612275460931595)
 <br>
