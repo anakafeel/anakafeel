@@ -15,16 +15,21 @@
 
 
 # 🎮 Gaming Stats
+
 ### Favorite Platforms:
 
-| Recent Games                                                                                      | Discord Presence                                                                                   |
-|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| ![anakafeel](https://steam-stat.vercel.app/api?profileName=fannelchina)                           | ![My Discord](https://discord-readme-badge.vercel.app/api?id=587612275460931595)      |                                                                    
-|||
-| [![Steam](https://img.shields.io/badge/Steam-Follow-000000?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/fannelchina/)    | [![Reach out to me on Discord!](https://img.shields.io/badge/Discord-Reach_out_to_me-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/587612275460931595)  |
+| Recent Games                                                                                      |
+|---------------------------------------------------------------------------------------------------|
+| ![anakafeel](https://steam-stat.vercel.app/api?profileName=fannelchina)                          |                 
+| <br>[![Steam](https://img.shields.io/badge/Steam-Follow-000000?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/fannelchina/) | 
 
 
 
+Discord Presence:
+<br>
+![My Discord](https://discord-readme-badge.vercel.app/api?id=587612275460931595)
+<br>
+[![Reach out on Discord!](https://img.shields.io/badge/Discord-Reach_out_to_me-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/587612275460931595)
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
