@@ -57,7 +57,7 @@
 
 ### **Customizations**
 - **Compositor:** [Hyprland](https://hyprland.org/)  
-- **Configuration Framework:** [HyDE](https://github.com/hyprland/hyprland)  
+- **Configuration Framework:** [HyDE](https://dev.to/da4ndo/hyde-the-most-aesthetic-dynamic-and-minimal-dots-for-hyprland-on-arch-58c)  
 - **Other Tools:**
   - Neovim for coding
   - Zsh with custom plugins
