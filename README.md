@@ -75,10 +75,11 @@
 ### Desktop Showcase:
 | ![Screenshot 1](https://github.com/user-attachments/assets/19b993c9-8e50-4531-b421-8b8dac1aff56) | ![Screenshot 2](https://github.com/user-attachments/assets/596adf79-2823-4194-9d4d-2bc16443fe39) | ![Screenshot 3](https://github.com/user-attachments/assets/34c1054a-279a-4158-aeb4-d146a28e8eef) |
 |:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
-| ![Screenshot 4](https://github.com/user-attachments/assets/be1cf65b-ed8f-497c-ac44-86610c41e1e3) | ![Screenshot 5](https://github.com/user-attachments/assets/446b786e-1d0a-4ad7-a8cf-bed4043aec4d) | ![Screenshot 6](https://github.com/user-attachments/assets/fc6c79df-330e-41ad-8d91-c38f78aec3ab) |
+| ![Screenshot 4](https://github.com/user-attachments/assets/be1cf65b-ed8f-497c-ac44-86610c41e1e3) | ![Screenshot 5](https://github.com/user-attachments/assets/446b786e-1d0a-4ad7-a8cf-bed4043aec4d) | ![Screenshot 6](https://github.com/user-attachments/assets/d9550f2b-f9c8-4080-b879-150ff36e0c9a) |
 | ![Screenshot 7](https://github.com/user-attachments/assets/0c3b2033-b85e-4053-ae17-49d136229cf6) | ![Screenshot 8](https://github.com/user-attachments/assets/2ff238c3-074d-4a99-a0d2-533bf86e1717) | ![Screenshot 9](https://github.com/user-attachments/assets/8867b476-9a54-406b-98ec-2e67705ee296) |
 
 ----
+
 
 
 
