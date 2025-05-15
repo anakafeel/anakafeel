@@ -51,6 +51,7 @@
 
 
 ## 🛠️ Current Setup
+### shifting over to [cachyOS](https://cachyos.org/)
 
 ### **Operating System**
 - **Arch Linux** 🐧
