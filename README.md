@@ -7,7 +7,6 @@
 <br>
 [![Reach out on Discord!](https://img.shields.io/badge/Discord-Reach_out_to_me-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/587612275460931595)
 <br>
-![My Discord](https://discord-readme-badge.vercel.app/api?id=587612275460931595)
 ## 💻 Tech Stack:
 
 ### 🌐 Languages
