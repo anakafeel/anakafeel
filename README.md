@@ -48,9 +48,12 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-
 ## 🛠️ Current Setup
-### shifting over to [cachyOS](https://cachyos.org/)
+### succesfully migrated over to [cachyOS](https://cachyos.org/) <a title="ptr1337, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CachyOS_Logo.svg"><img width="20" height="20" alt="CachyOS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CachyOS_Logo.svg/64px-CachyOS_Logo.svg.png?20230130074653"></a> from [vanilla Arch](https://archlinux.org/)
+----
+
+<details>
+<summary><strong>Previous Setup (Arch Linux) <a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="20px" height="20px" alt="arch"></a> </strong></summary>
 
 ### **Operating System**
 - **Arch Linux** 🐧
@@ -81,8 +84,6 @@
 ----
 
 
-
-
 ## 🤝 Configurations
 
 - Easily customizable, with:
@@ -93,7 +94,7 @@
 💻 Check out my dotfiles ➡️ [My Dotfiles Repo](https://github.com/anakafeel/hyprland-dotfiles)
 
 ----
-
+</details>
 
 
 # 📊 GitHub Stats:
