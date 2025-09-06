@@ -48,9 +48,35 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+## <a title="ptr1337, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CachyOS_Logo.svg"><img width="20" height="20" alt="CachyOS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CachyOS_Logo.svg/64px-CachyOS_Logo.svg.png?20230130074653"></a>  Current Setup (CachyOS)  
+
+### **Customizations**  
+- **Compositor / WM:** [Hyprland](https://hyprland.org/)  
+- **Dotfiles Framework:** [Caelestia](https://github.com/caelestia-dots/caelestia)  
+- **Shell Environment:** [Caelestia Shell](https://github.com/caelestia-dots/shell)  
+- **Other Tools:**  
+  - Neovim for development  
+  - Zsh with Caelestia shell integrations  
+  - Rofi & Wayland-native utilities for an efficient workflow  
+
+> ⚙ Unified, modern, and aesthetic workflow powered by **Caelestia**, designed for productivity, performance, and beauty.  
+
+---
+
+## 📸 Screenshots  
+
+### Desktop Showcase:  
+| ![Screenshot 1](https://github.com/user-attachments/assets/your-screenshot-1) | ![Screenshot 2](https://github.com/user-attachments/assets/your-screenshot-2) | ![Screenshot 3](https://github.com/user-attachments/assets/your-screenshot-3) |  
+|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|  
+| ![Screenshot 4](https://github.com/user-attachments/assets/your-screenshot-4) | ![Screenshot 5](https://github.com/user-attachments/assets/your-screenshot-5) | ![Screenshot 6](https://github.com/user-attachments/assets/your-screenshot-6) |  
+| ![Screenshot 7](https://github.com/user-attachments/assets/your-screenshot-7) | ![Screenshot 8](https://github.com/user-attachments/assets/your-screenshot-8) | ![Screenshot 9](https://github.com/user-attachments/assets/your-screenshot-9) |  
+
+---
+
+
 ### succesfully migrated over to [cachyOS](https://cachyos.org/) <a title="ptr1337, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CachyOS_Logo.svg"><img width="20" height="20" alt="CachyOS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CachyOS_Logo.svg/64px-CachyOS_Logo.svg.png?20230130074653"></a> from [vanilla Arch](https://archlinux.org/)
 
-## 🛠️ Previous Setup (Arch Linux) <a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="20px" height="20px" alt="arch"></a>
+## <a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="20px" height="20px" alt="arch"></a> Previous Setup (Arch Linux) 
 
 ### **Customizations**
 - **Compositor:** [Hyprland](https://hyprland.org/)  
