@@ -1,6 +1,17 @@
-# 💫 About Me:
-👋 Hi, I’m Saim Hashmi!<br><br>I’m a dedicated developer pursuing a degree in Computer Systems Engineering at Carleton University in Ottawa, Canada. My current focus is on enhancing my design system abilities and exploring self-hosting solutions.<br><br>🔧 What I’m Working On: I'm currently working on enhancing my design systems skills and looking more into self-hosting setups.<br><br>🌱 Currently Learning: I am delving into new databases like Supabase and Firebase for backend development, as well as working extensively with Figma and Storybook to improve my design workflow.<br><br>🤝 Let’s Collaborate: I’m always on the lookout for collaboration opportunities to work on innovative projects, so feel free to reach out!<br><br>💬 Ask Me About: Any design systems or development techniques; I love sharing and discussing ideas!<br><br>🔍 Fun Fact: I enjoy playing a lot of competitive games in my free time, which helps sharpen my strategic thinking!<br><br>Explore my work on GitHub and let’s connect!
 
+<img width="1398" height="623" alt="saim-banner-cropped" src="https://github.com/user-attachments/assets/e1c0e5fa-b689-4711-b9a4-be3b99fd65cf" />
+
+
+# 👋 Hi, I’m Saim Hashmi
+“Cloud enthusiast, web tinkerer, and yes… I use Arch btw.”
+
+I’m a Computer Systems Engineering student at Carleton University in Ottawa, Canada. Over the past few years, I’ve done my fair share of web development, but recently I’ve been shifting more toward cloud computing and exploring how scalable infrastructure can power smarter projects. Along the way, I’ve also been experimenting with self-hosting setups and design systems to refine both the technical and aesthetic sides of my work.
+
+When I’m not diving into cloud platforms like Supabase and Firebase, you’ll probably find me lost in Linux ricing — customizing my setup more than actually using it (screenshots attached below 😅).
+
+I enjoy collaborating on projects that push the envelope, whether that’s building something cloud-native, polishing user-facing experiences with design systems, or just hacking together a fun side project. And if you ever want to swap ricing tips or discuss cloud architecture, I’m your guy.
+
+Outside of coding, I play a lot of competitive games — turns out debugging and outsmarting opponents require similar strategic thinking.
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anakafeel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saim-hashmi-2230b6243/)
