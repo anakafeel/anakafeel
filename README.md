@@ -48,7 +48,9 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## <a title="ptr1337, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CachyOS_Logo.svg"><img width="20" height="20" alt="CachyOS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CachyOS_Logo.svg/64px-CachyOS_Logo.svg.png?20230130074653"></a>  Current Setup (CachyOS)  
+### <a title="ptr1337, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CachyOS_Logo.svg"><img width="20" height="20" alt="CachyOS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CachyOS_Logo.svg/64px-CachyOS_Logo.svg.png?20230130074653"></a>  Current Setup (CachyOS) 
+
+https://github.com/user-attachments/assets/c17fc2e3-a7ad-4262-94a1-043e9a89f1b5
 
 ### **Customizations**  
 - **Compositor / WM:** [Hyprland](https://hyprland.org/)  
@@ -65,18 +67,14 @@
 
 ## 📸 Screenshots  
 
-### Desktop Showcase:  
-| ![Screenshot 1](https://github.com/user-attachments/assets/your-screenshot-1) | ![Screenshot 2](https://github.com/user-attachments/assets/your-screenshot-2) | ![Screenshot 3](https://github.com/user-attachments/assets/your-screenshot-3) |  
-|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|  
-| ![Screenshot 4](https://github.com/user-attachments/assets/your-screenshot-4) | ![Screenshot 5](https://github.com/user-attachments/assets/your-screenshot-5) | ![Screenshot 6](https://github.com/user-attachments/assets/your-screenshot-6) |  
-| ![Screenshot 7](https://github.com/user-attachments/assets/your-screenshot-7) | ![Screenshot 8](https://github.com/user-attachments/assets/your-screenshot-8) | ![Screenshot 9](https://github.com/user-attachments/assets/your-screenshot-9) |  
-
----
+| ![Screenshot 1](https://github.com/user-attachments/assets/9ef5ddd1-352b-4fc3-aea1-637be9721b6c) | ![Screenshot 2](https://github.com/user-attachments/assets/cd537fbb-a508-4466-a71d-2585c867fe31) | ![Screenshot 3](https://github.com/user-attachments/assets/1146fa79-6837-4f10-9d0e-a60d05530417) |
+|:----------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
+| ![Screenshot 4](https://github.com/user-attachments/assets/b5f267ff-5358-43be-9727-601b222c6c9f) | ![Screenshot 5](https://github.com/user-attachments/assets/67f6bcc2-9e92-42ad-b46a-844e60229cb4) | ![Screenshot 6](https://github.com/user-attachments/assets/9e03f3e0-4c04-4768-84e5-4843f9be47c4) 
 
 
-### succesfully migrated over to [cachyOS](https://cachyos.org/) <a title="ptr1337, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CachyOS_Logo.svg"><img width="20" height="20" alt="CachyOS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CachyOS_Logo.svg/64px-CachyOS_Logo.svg.png?20230130074653"></a> from [vanilla Arch](https://archlinux.org/)
+## succesfully migrated over to [cachyOS](https://cachyos.org/) <a title="ptr1337, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CachyOS_Logo.svg"><img width="20" height="20" alt="CachyOS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CachyOS_Logo.svg/64px-CachyOS_Logo.svg.png?20230130074653"></a> from [vanilla Arch](https://archlinux.org/)
 
-## <a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="20px" height="20px" alt="arch"></a> Previous Setup (Arch Linux) 
+# <a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="20px" height="20px" alt="arch"></a> Previous Setup (Arch Linux) 
 
 ### **Customizations**
 - **Compositor:** [Hyprland](https://hyprland.org/)  
