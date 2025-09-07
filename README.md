@@ -1,5 +1,5 @@
 
-<img width="1398" height="623" alt="saim-banner-cropped" src="https://github.com/user-attachments/assets/e1c0e5fa-b689-4711-b9a4-be3b99fd65cf" />
+![Saim Hashmi banner gif](https://github.com/user-attachments/assets/a77d1895-4395-4394-ab2c-8b9401a0105c)
 
 
 # 👋 Hi, I’m Saim Hashmi
