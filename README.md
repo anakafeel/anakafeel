@@ -48,7 +48,8 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### <a title="ptr1337, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CachyOS_Logo.svg"><img width="20" height="20" alt="CachyOS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CachyOS_Logo.svg/64px-CachyOS_Logo.svg.png?20230130074653"></a>  Current Setup (CachyOS) 
+
+# <a title="ptr1337, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CachyOS_Logo.svg"><img width="20" height="20" alt="CachyOS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CachyOS_Logo.svg/64px-CachyOS_Logo.svg.png?20230130074653"></a>  Current Setup (CachyOS) 
 
 https://github.com/user-attachments/assets/c17fc2e3-a7ad-4262-94a1-043e9a89f1b5
 
@@ -71,10 +72,11 @@ https://github.com/user-attachments/assets/c17fc2e3-a7ad-4262-94a1-043e9a89f1b5
 |:----------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
 | ![Screenshot 4](https://github.com/user-attachments/assets/b5f267ff-5358-43be-9727-601b222c6c9f) | ![Screenshot 5](https://github.com/user-attachments/assets/67f6bcc2-9e92-42ad-b46a-844e60229cb4) | ![Screenshot 6](https://github.com/user-attachments/assets/9e03f3e0-4c04-4768-84e5-4843f9be47c4) 
 
+💻 Check out my caelestia dotfiles ➡️ [My Dotfiles Repo](https://github.com/anakafeel/dotfiles/tree/main/caelestia)
 
-## succesfully migrated over to [cachyOS](https://cachyos.org/) <a title="ptr1337, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CachyOS_Logo.svg"><img width="20" height="20" alt="CachyOS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CachyOS_Logo.svg/64px-CachyOS_Logo.svg.png?20230130074653"></a> from [vanilla Arch](https://archlinux.org/)
+> succesfully migrated over to [cachyOS](https://cachyos.org/) <a title="ptr1337, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CachyOS_Logo.svg"><img width="20" height="20" alt="CachyOS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CachyOS_Logo.svg/64px-CachyOS_Logo.svg.png?20230130074653"></a> from [vanilla Arch](https://archlinux.org/)
 
-# <a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="20px" height="20px" alt="arch"></a> Previous Setup (Arch Linux) 
+## <a href="https://emoji.gg/emoji/4744_arch"><img src="https://cdn3.emoji.gg/emojis/4744_arch.png" width="20px" height="20px" alt="arch"></a> Previous Setup (Vanilla Arch Linux) 
 
 ### **Customizations**
 - **Compositor:** [Hyprland](https://hyprland.org/)  
@@ -93,7 +95,6 @@ https://github.com/user-attachments/assets/c17fc2e3-a7ad-4262-94a1-043e9a89f1b5
 
 ## 📸 Screenshots
 
-### Desktop Showcase:
 | ![Screenshot 1](https://github.com/user-attachments/assets/19b993c9-8e50-4531-b421-8b8dac1aff56) | ![Screenshot 2](https://github.com/user-attachments/assets/596adf79-2823-4194-9d4d-2bc16443fe39) | ![Screenshot 3](https://github.com/user-attachments/assets/34c1054a-279a-4158-aeb4-d146a28e8eef) |
 |:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | ![Screenshot 4](https://github.com/user-attachments/assets/be1cf65b-ed8f-497c-ac44-86610c41e1e3) | ![Screenshot 5](https://github.com/user-attachments/assets/446b786e-1d0a-4ad7-a8cf-bed4043aec4d) | ![Screenshot 6](https://github.com/user-attachments/assets/d9550f2b-f9c8-4080-b879-150ff36e0c9a) |
@@ -109,7 +110,6 @@ https://github.com/user-attachments/assets/c17fc2e3-a7ad-4262-94a1-043e9a89f1b5
   - Custom Waybar and Polybar themes
   - Integrated theming across all applications
 
-💻 Check out my dotfiles ➡️ [My Dotfiles Repo](https://github.com/anakafeel/hyprland-dotfiles)
 
 ----
 
