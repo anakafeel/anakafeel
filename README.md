@@ -18,46 +18,16 @@ Outside of coding, I play a lot of competitive games — turns out debugging and
 <br>
 [![Reach out on Discord!](https://img.shields.io/badge/Discord-Reach_out_to_me-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/587612275460931595)
 <br>
-## 💻 Tech Stack:
 
-### 🌐 Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## 🧰 Tech Stack
 
-### 📚 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2320232a.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
-![Next JS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%2300C7B7.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+| **Languages** | **Frameworks / Libraries** | **Tools** |
+|:--------------:|:---------------------------:|:----------:|
+| [![My Skills](https://skillicons.dev/icons?i=js,ts,python,cpp,c,java)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=react,nextjs,remix,angular,bootstrap,html,css,react,react,remix,tailwind,vite,vue)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,androidstudio,anaconda,bash,figma,flask,firebase,git,github,neovim,notion,replit,tensorflow)](https://skillicons.dev) |
 
-### ☁️ Tools & Cloud
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-### 🛢️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-%2300C7B7.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%2304AD00.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=white)
-
-### 🤖 Data Science & ML
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23008ED6.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+| **Operating Systems** | **Databases / Cloud** | **Other Interests** |
+|:----------------------:|:----------------------:|:-------------------:|
+| [![My Skills](https://skillicons.dev/icons?i=arch,linux,windows)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql,firebase,django,postgres,supabase)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=wasm,threejs,docker,arduino,aws,linux,raspberrypi)](https://skillicons.dev) |
 
 
 # <a title="ptr1337, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CachyOS_Logo.svg"><img width="20" height="20" alt="CachyOS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CachyOS_Logo.svg/64px-CachyOS_Logo.svg.png?20230130074653"></a>  Current Setup (CachyOS) 
