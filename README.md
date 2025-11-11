@@ -1,5 +1,5 @@
+![Saim Hashmi](https://github.com/user-attachments/assets/773dd8c2-e6de-4f9c-bfdd-18fd1e5469f2)
 
-![Saim Hashmi banner gif](https://github.com/user-attachments/assets/a77d1895-4395-4394-ab2c-8b9401a0105c)
 
 
 # 👋 Hi, I’m Saim Hashmi
