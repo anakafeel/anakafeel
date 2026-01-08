@@ -1,0 +1,23 @@
+name: generate monkeytype readme svg
+
+on:
+  schedule:
+    # Runs every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  download-svg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Generate MonkeyType SVG
+        uses: monkeytype-hub/monkeytype-readme@v1.3.1
+        with:
+          MONKEYTYPE_USERNAME: 'anakafeel' # Replace with your Monkeytype username
+          MONKEYTYPE_THEME_NAME: 'bento'  # Optional: Replace with your favorite theme (use underscores for spaces, e.g., "nord_light")
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Use GitHub's default token
+          APE_KEY: ${{ secrets.MONKEYTYPE_APE_KEY }} # Reference the secret you created
+          BRANCH_NAME: 'main' # Or your default branch name (e.g., master)
