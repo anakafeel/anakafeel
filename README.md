@@ -10,12 +10,6 @@ I like working on projects that have some ambition to them, whether that's cloud
 
 Outside of code, I play a lot of competitive games. The problem-solving transfers over more than you'd think. 🎮
 
-<a href="https://monkeytype.com/profile/anakafeel">
-  <img src="https://raw.githubusercontent.com/anakafeel/anakafeel/monkeytype-readme/anakafeel-monkeytype-readme-pb.svg?v=2" alt="Monkeytype stats" />
-</a>
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anakafeel&theme=dracula)
-
 # Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anakafeel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saim-hashmi-2230b6243/) [![Steam](https://img.shields.io/badge/Steam-anakafeel-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198965205887/)
 <br>
@@ -102,13 +96,27 @@ https://github.com/user-attachments/assets/c17fc2e3-a7ad-4262-94a1-043e9a89f1b5
 
 # GitHub Stats
 
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anakafeel&theme=dracula)
+
 | GitHub Streak | Most Used Languages |
 |:-------------:|:-------------------:|
 | ![GitHub Streak](https://streak-stats.demolab.com/?user=anakafeel&theme=dracula&mode=weekly) | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anakafeel&theme=dracula) |
 
 [![Saim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anakafeel&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 
+# Gaming Stats 🎮
+
+[![Steam](https://img.shields.io/badge/Steam-anakafeel-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198965205887/)
+
+# Typing Stats ⌨️
+
+<a href="https://monkeytype.com/profile/anakafeel">
+  <img src="https://raw.githubusercontent.com/anakafeel/anakafeel/monkeytype-readme/anakafeel-monkeytype-readme-pb.svg?v=2" alt="Monkeytype stats" />
+</a>
+
+---
 
 # Random Dev Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula)
