@@ -113,7 +113,7 @@ https://github.com/user-attachments/assets/c17fc2e3-a7ad-4262-94a1-043e9a89f1b5
 # Typing Stats ⌨️
 
 <a href="https://monkeytype.com/profile/anakafeel">
-  <img src="https://cdn.jsdelivr.net/gh/anakafeel/anakafeel@monkeytype-readme/anakafeel-monkeytype-readme-pb.svg" alt="Monkeytype stats" />
+  <img src="https://raw.githubusercontent.com/anakafeel/anakafeel/monkeytype-readme/anakafeel-monkeytype-readme-pb.svg?v=3" alt="Monkeytype stats" />
 </a>
 
 ---
