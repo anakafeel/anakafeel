@@ -17,7 +17,6 @@ jobs:
         uses: monkeytype-hub/monkeytype-readme@v1.0.0
         with:
           username: anakafeel
-          themes: serika_dark
+          themes: bento
           target-branch: monkeytype-readme
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          monkeytype_api_key: ${{ secrets.MONKEYTYPE_APE_KEY }}
