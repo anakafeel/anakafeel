@@ -1,17 +1,17 @@
 ![Copy of Saim Hashmi](https://github.com/user-attachments/assets/ea779b22-1d29-4a31-8b6e-05a779d8f1f8)
 # Hi, I'm Saim Hashmi
-"Cloud enthusiast, web tinkerer, and yes... I use Arch btw."
+"Cloud enthusiast, web tinkerer, and yes... I use Arch btw." 🐧
 
-I'm a Computer Systems Engineering student at Carleton University in Ottawa, Canada. Over the past few years, I've done my fair share of web development, but recently I've been shifting more toward cloud computing and exploring how scalable infrastructure can power smarter projects. Along the way, I've also been experimenting with self-hosting setups and design systems to refine both the technical and aesthetic sides of my work.
+I'm a Computer Systems Engineering student at Carleton University in Ottawa, Canada. I've done my fair share of web development over the years, but lately I've been spending more time on cloud infrastructure and figuring out how to build things that actually scale. Self-hosting, homelab stuff, design systems... I tend to go deep on whatever catches my interest.
 
-When I'm not diving into cloud platforms like Supabase and Firebase, you'll probably find me lost in Linux ricing, customizing my setup more than actually using it (screenshots attached below).
+When I'm not working on cloud platforms or backend things, you'll probably find me ricing my Linux setup way more than I should be (screenshots below 👇).
 
-I enjoy collaborating on projects that push the envelope, whether that's building something cloud-native, polishing user-facing experiences with design systems, or just hacking together a fun side project. If you ever want to swap ricing tips or discuss cloud architecture, I'm your guy.
+I like working on projects that have some ambition to them, whether that's cloud-native infrastructure, a polished frontend, or just something weird and fun. If you want to talk shop about ricing or cloud architecture, hit me up.
 
-Outside of coding, I play a lot of competitive games. Turns out debugging and outsmarting opponents require similar strategic thinking.
+Outside of code, I play a lot of competitive games. The problem-solving transfers over more than you'd think. 🎮
 
 # Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anakafeel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saim-hashmi-2230b6243/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anakafeel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saim-hashmi-2230b6243/) [![Steam](https://img.shields.io/badge/Steam-anakafeel-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198965205887/)
 <br>
 [![Reach out on Discord!](https://img.shields.io/badge/Discord-Reach_out_to_me-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/587612275460931595)
 <br>
@@ -101,12 +101,7 @@ https://github.com/user-attachments/assets/c17fc2e3-a7ad-4262-94a1-043e9a89f1b5
 
 [![Saim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anakafeel&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# Gaming Stats
-### Favorite Platforms:
-| Recent Games |
-|---|
-| ![anakafeel](https://steam-stat.vercel.app/api?profileName=fannelchina) |
-| <br>[![Steam](https://img.shields.io/badge/Steam-Follow-000000?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/fannelchina/) |
+
 
 # Random Dev Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula)
