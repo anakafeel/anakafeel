@@ -11,7 +11,7 @@ I like working on projects that have some ambition to them, whether that's cloud
 Outside of code, I play a lot of competitive games. The problem-solving transfers over more than you'd think. 🎮
 
 <a href="https://monkeytype.com/profile/anakafeel">
-  <img src="https://raw.githubusercontent.com/anakafeel/anakafeel/monkeytype-readme/anakafeel-monkeytype-readme-pb.svg" alt="Monkeytype stats" />
+  <img src="https://raw.githubusercontent.com/anakafeel/anakafeel/monkeytype-readme/anakafeel-monkeytype-readme-pb.svg?v=2" alt="Monkeytype stats" />
 </a>
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anakafeel&theme=dracula)
