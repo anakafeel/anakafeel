@@ -20,16 +20,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      # Temporary: built from my fork's leap-year fix until upstream releases it.
-      # Then switch back to `uses: yalongwastaken/git-koi@v1` with `body: white`.
-      - name: Install git-koi from the fork
-        run: cargo install --locked --git https://github.com/anakafeel/git-koi --rev b9e9ff28b421fedad66c9992b995c30516b6cff0
-      - name: Draw the koi
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          git-koi collect "${{ github.repository_owner }}" --output "$RUNNER_TEMP/koi-snapshot.json"
-          git-koi render "$RUNNER_TEMP/koi-snapshot.json" --output-dir koi --body white
+      - uses: yalongwastaken/git-koi@v1
+        with:
+          body: white
+          output-dir: koi
       - name: Commit the koi if it changed
         shell: bash
         run: |
