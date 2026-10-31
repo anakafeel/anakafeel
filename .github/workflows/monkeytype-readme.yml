@@ -3,20 +3,35 @@ on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+    paths: [.github/workflows/monkeytype-readme.yml, .github/scripts/monkeytype-card.mjs]
+
+permissions:
+  contents: write
+
 jobs:
-  download-svg:
+  card:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: "20.x"
-      - name: Generate Monkeytype Readme SVG
-        uses: monkeytype-hub/monkeytype-readme@v1.0.0
-        with:
-          username: anakafeel
-          themes: bento
-          target-branch: monkeytype-readme
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Draw the card
+        run: node .github/scripts/monkeytype-card.mjs anakafeel "$RUNNER_TEMP/monkeytype.svg"
+      - name: Publish the card to the monkeytype-readme branch if it changed
+        run: |
+          git fetch --depth=1 origin monkeytype-readme
+          git worktree add card FETCH_HEAD
+          cd card
+          cp "$RUNNER_TEMP/monkeytype.svg" monkeytype.svg
+          git rm -q --ignore-unmatch anakafeel-monkeytype-readme*.svg
+          git add monkeytype.svg
+          if git diff --cached --quiet; then
+            echo "The card is unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "Saim Hashmi"
+          git config user.email "hashmisaim037@gmail.com"
+          git commit -qm "monkeytype: refresh stats"
+          git push -q origin HEAD:monkeytype-readme

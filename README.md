@@ -51,7 +51,7 @@ Outside of code, I play a lot of competitive games. The problem-solving transfer
 
 ---
 
-# <a title="ptr1337, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CachyOS_Logo.svg"><img width="20" height="20" alt="CachyOS Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CachyOS_Logo.svg/64px-CachyOS_Logo.svg.png?20230130074653"></a> Previous Setup (CachyOS)
+# <a title="ptr1337, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CachyOS_Logo.svg"><img width="20" height="20" alt="CachyOS Logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/CachyOS_Logo.svg"></a> Previous Setup (CachyOS)
 https://github.com/user-attachments/assets/c17fc2e3-a7ad-4262-94a1-043e9a89f1b5
 
 ### Customizations
@@ -107,8 +107,6 @@ https://github.com/user-attachments/assets/c17fc2e3-a7ad-4262-94a1-043e9a89f1b5
 |:-------------:|:-------------------:|
 | ![GitHub Streak](https://streak-stats.demolab.com/?user=anakafeel&theme=dracula&mode=weekly) | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anakafeel&theme=dracula) |
 
-[![Saim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anakafeel&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 # Gaming Stats 🎮
@@ -118,7 +116,7 @@ https://github.com/user-attachments/assets/c17fc2e3-a7ad-4262-94a1-043e9a89f1b5
 # Typing Stats ⌨️
 
 <a href="https://monkeytype.com/profile/anakafeel">
-  <img src="https://raw.githubusercontent.com/anakafeel/anakafeel/monkeytype-readme/anakafeel-monkeytype-readme-pb.svg?v=3" alt="Monkeytype stats" />
+  <img src="https://raw.githubusercontent.com/anakafeel/anakafeel/monkeytype-readme/monkeytype.svg" alt="Monkeytype stats" />
 </a>
 
 ---
