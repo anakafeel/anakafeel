@@ -1,4 +1,4 @@
-![Copy of Saim Hashmi](https://github.com/user-attachments/assets/ea779b22-1d29-4a31-8b6e-05a779d8f1f8)
+<img src="banner/banner.gif" width="100%" alt="Pixel-art Saim at his desk at night: the monitor boots Arch, runs pacman and matugen, and his site's pixel mosaic drips across the banner beside his name" />
 # Hi, I'm Saim Hashmi
 "Cloud enthusiast, web tinkerer, and yes... I use Arch btw." 🐧
 
