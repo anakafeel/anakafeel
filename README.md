@@ -2,6 +2,10 @@
 # Hi, I'm Saim Hashmi
 "Cloud enthusiast, web tinkerer, and yes... I use Arch btw." 🐧
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity" />
+</p>
+
 I'm a Computer Systems Engineering student at Carleton University in Ottawa, Canada. I've done my fair share of web development over the years, but lately I've been spending more time on cloud infrastructure and figuring out how to build things that actually scale. Self-hosting, homelab stuff, design systems... I tend to go deep on whatever catches my interest.
 
 When I'm not working on cloud platforms or backend things, you'll probably find me ricing my Linux setup way more than I should be (screenshots below 👇).
