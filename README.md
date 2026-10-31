@@ -16,7 +16,7 @@ I like working on projects that have some ambition to them, whether that's cloud
 Outside of code, I play a lot of competitive games. The problem-solving transfers over more than you'd think. 🎮
 
 # Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anakafeel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saim-hashmi-2230b6243/) [![Steam](https://img.shields.io/badge/Steam-anakafeel-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198965205887/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-saimhashmi.is--a.dev-6C4CF1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saimhashmi.is-a.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anakafeel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saim-hashmi/) [![Steam](https://img.shields.io/badge/Steam-anakafeel-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198965205887/)
 <br>
 [![Reach out on Discord!](https://img.shields.io/badge/Discord-Reach_out_to_me-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/587612275460931595)
 <br>
