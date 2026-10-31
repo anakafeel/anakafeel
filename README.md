@@ -1,10 +1,11 @@
 <img src="banner/banner.gif" width="100%" alt="Pixel-art Saim at his desk at night: the monitor boots Arch, runs pacman and matugen, and his site's pixel mosaic drips across the banner beside his name" />
-# Hi, I'm Saim Hashmi
-"Cloud enthusiast, web tinkerer, and yes... I use Arch btw." 🐧
 
 <p align="center">
   <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity" />
 </p>
+
+# Hi, I'm Saim Hashmi
+"Cloud enthusiast, web tinkerer, and yes... I use Arch btw." 🐧
 
 I'm a Computer Systems Engineering student at Carleton University in Ottawa, Canada. I've done my fair share of web development over the years, but lately I've been spending more time on cloud infrastructure and figuring out how to build things that actually scale. Self-hosting, homelab stuff, design systems... I tend to go deep on whatever catches my interest.
 
